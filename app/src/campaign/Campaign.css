@@ -1,0 +1,27 @@
+.Campaign {
+    border-style: solid;
+    border-color: aliceblue;
+}
+.CampaignHeader{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.AppLogo{
+    padding-top: 5%;
+    padding-left: 5%;
+}
+.AppLogo img{
+    width: 70px;
+    border-radius: 30%;
+}
+.CampaignName p{
+    padding-left: 20%;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+.CampaignPayPerInstall p {
+    padding-left: 20%;
+    font-size: 1.2em;
+    color: rgb(88, 250, 74);
+}
